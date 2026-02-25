@@ -78,16 +78,28 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Using table layout to force side-by-side rendering and prevent broken placeholders -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hydra404coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="Stats"/>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Hydra404coder">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hydra404coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="400" alt="GitHub Stats"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Hydra404coder">
+          <img src="https://streak-stats.demolab.com?user=Hydra404coder&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hydra404coder&theme=tokyonight&hide_border=true" height="180" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra404coder&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="180" alt="Top Languages"/>
+  <a href="https://github.com/Hydra404coder">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hydra404coder&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" width="400" alt="Top Languages"/>
+  </a>
 </div>
 
 ---
@@ -95,7 +107,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hydra404coder&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <a href="https://github.com/Hydra404coder">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hydra404coder&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  </a>
 </div>
 
 ---
@@ -103,7 +117,9 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hydra404coder&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <a href="https://github.com/Hydra404coder">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hydra404coder&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+  </a>
 </div>
 
 ---
@@ -111,7 +127,9 @@
 ## 📋 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hydra404coder&theme=tokyonight" width="100%" alt="Profile Details"/>
+  <a href="https://github.com/Hydra404coder">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hydra404coder&theme=tokyonight" width="95%" alt="Profile Details"/>
+  </a>
 </div>
 
 <br/>
@@ -120,18 +138,18 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hydra404coder&theme=tokyonight" alt="Repos per Language"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hydra404coder&theme=tokyonight" width="320" alt="Repos per Language"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hydra404coder&theme=tokyonight" alt="Most Commit Language"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hydra404coder&theme=tokyonight" width="320" alt="Most Commit Language"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hydra404coder&theme=tokyonight" alt="Stats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hydra404coder&theme=tokyonight" width="320" alt="Stats Card"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hydra404coder&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hydra404coder&theme=tokyonight&utcOffset=5.5" width="320" alt="Productive Time"/>
       </td>
     </tr>
   </table>
@@ -143,84 +161,18 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    🧠  ENGINEERING LOOP  🧠                     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-```
-        ┌─────────────┐
-        │   💡 IDEA    │
-        │   imagine()  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌─────────────┐
-        │  🔬 DESIGN   │
-        │  research()  │
-        │  architect() │
-        └──────┬───────┘
-               │
-               ▼
-        ┌─────────────┐
-        │  🛠️ BUILD    │
-        │  develop()   │
-        │  integrate() │
-        └──────┬───────┘
-               │
-               ▼
-        ┌─────────────┐
-        │  🧪 TEST     │
-        │  validate()  │
-        │  benchmark() │
-        └──────┬───────┘
-               │
-               ▼
-        ┌─────────────┐
-        │  🚀 DEPLOY   │
-        │  ship()      │
-        │  monitor()   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌─────────────┐
-        │  🔄 REFINE   │
-        │  feedback()  │
-        │  optimize()  │
-        └──────┬───────┘
-               │
-               └──────────────────┐
-                                  │
-               ┌──────────────────┘
-               │
-               ▼
-        ╔═════════════╗
-        ║  ♾️ REPEAT   ║
-        ╚══════┬══════╝
-               │
-               └──► Back to 💡 IDEA
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Animated SVG pipeline badges -->
 <img src="https://img.shields.io/badge/1-💡_Imagine-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="Step 1"/>
-<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/→-1a1b27?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
 <img src="https://img.shields.io/badge/2-🔬_Design-FFA500?style=for-the-badge&labelColor=1a1b27" alt="Step 2"/>
-<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/→-1a1b27?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
 <img src="https://img.shields.io/badge/3-🛠️_Build-FFD93D?style=for-the-badge&labelColor=1a1b27" alt="Step 3"/>
-<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/→-1a1b27?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
 <img src="https://img.shields.io/badge/4-🧪_Test-6BCB77?style=for-the-badge&labelColor=1a1b27" alt="Step 4"/>
-<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/→-1a1b27?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
 <img src="https://img.shields.io/badge/5-🚀_Deploy-4D96FF?style=for-the-badge&labelColor=1a1b27" alt="Step 5"/>
-<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/→-1a1b27?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
 <img src="https://img.shields.io/badge/6-🔄_Refine-9B59B6?style=for-the-badge&labelColor=1a1b27" alt="Step 6"/>
-<img src="https://img.shields.io/badge/→_♾️-black?style=for-the-badge&labelColor=1a1b27" alt="repeat"/>
+<img src="https://img.shields.io/badge/♾️-1a1b27?style=for-the-badge&labelColor=1a1b27" alt="repeat"/>
 
 </div>
 
@@ -235,14 +187,14 @@ class AkhilDev:
         self.focus     = ["LLMs", "Computer Vision", "Multi-Modal AI", "Edge AI"]
         self.motto     = "Ship intelligent systems that solve real problems."
 
-    def daily_loop(self):
+    def run(self):
         while True:
             idea    = self.imagine()
             design  = self.research(idea)
             system  = self.build(design)
             results = self.test(system)
             self.deploy(results)
-            self.refine()  # ♾️ continuous improvement
+            self.refine()
 ```
 
 ---
