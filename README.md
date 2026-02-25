@@ -78,83 +78,178 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hydra404coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Hydra404coder&theme=tokyonight&hide_border=true" height="180" alt="Streak"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hydra404coder&theme=tokyonight&hide_border=true" height="180" alt="Streak"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra404coder&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="180" alt="Top Languages"/>
-</p>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hydra404coder&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hydra404coder&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+</div>
 
 ---
 
 ## 📋 Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hydra404coder&theme=tokyonight" alt="Profile Details"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hydra404coder&theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hydra404coder&theme=tokyonight" height="160" alt="Repos per Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hydra404coder&theme=tokyonight" height="160" alt="Most Commit Language"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hydra404coder&theme=tokyonight" height="160" alt="Stats"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hydra404coder&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive Time"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hydra404coder&theme=tokyonight" alt="Repos per Language"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hydra404coder&theme=tokyonight" alt="Most Commit Language"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hydra404coder&theme=tokyonight" alt="Stats"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hydra404coder&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## ⚙️ Engineering Philosophy
 
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🧠  ENGINEERING LOOP  🧠                     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+```
+        ┌─────────────┐
+        │   💡 IDEA    │
+        │   imagine()  │
+        └──────┬───────┘
+               │
+               ▼
+        ┌─────────────┐
+        │  🔬 DESIGN   │
+        │  research()  │
+        │  architect() │
+        └──────┬───────┘
+               │
+               ▼
+        ┌─────────────┐
+        │  🛠️ BUILD    │
+        │  develop()   │
+        │  integrate() │
+        └──────┬───────┘
+               │
+               ▼
+        ┌─────────────┐
+        │  🧪 TEST     │
+        │  validate()  │
+        │  benchmark() │
+        └──────┬───────┘
+               │
+               ▼
+        ┌─────────────┐
+        │  🚀 DEPLOY   │
+        │  ship()      │
+        │  monitor()   │
+        └──────┬───────┘
+               │
+               ▼
+        ┌─────────────┐
+        │  🔄 REFINE   │
+        │  feedback()  │
+        │  optimize()  │
+        └──────┬───────┘
+               │
+               └──────────────────┐
+                                  │
+               ┌──────────────────┘
+               │
+               ▼
+        ╔═════════════╗
+        ║  ♾️ REPEAT   ║
+        ╚══════┬══════╝
+               │
+               └──► Back to 💡 IDEA
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Animated SVG pipeline badges -->
+<img src="https://img.shields.io/badge/1-💡_Imagine-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="Step 1"/>
+<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/2-🔬_Design-FFA500?style=for-the-badge&labelColor=1a1b27" alt="Step 2"/>
+<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/3-🛠️_Build-FFD93D?style=for-the-badge&labelColor=1a1b27" alt="Step 3"/>
+<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/4-🧪_Test-6BCB77?style=for-the-badge&labelColor=1a1b27" alt="Step 4"/>
+<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/5-🚀_Deploy-4D96FF?style=for-the-badge&labelColor=1a1b27" alt="Step 5"/>
+<img src="https://img.shields.io/badge/→-black?style=for-the-badge&labelColor=1a1b27" alt="arrow"/>
+<img src="https://img.shields.io/badge/6-🔄_Refine-9B59B6?style=for-the-badge&labelColor=1a1b27" alt="Step 6"/>
+<img src="https://img.shields.io/badge/→_♾️-black?style=for-the-badge&labelColor=1a1b27" alt="repeat"/>
+
+</div>
+
+<br/>
+
 ```python
 class AkhilDev:
     def __init__(self):
-        self.role = "AI Engineer & Full Stack Developer"
+        self.role      = "AI Engineer & Full Stack Developer"
         self.languages = ["Python", "C++", "Java", "JavaScript"]
-        self.focus_areas = [
-            "Large Language Models",
-            "Computer Vision",
-            "Multi-Modal AI",
-            "Edge AI & Embedded Systems",
-        ]
-        self.motto = "Ship intelligent systems that solve real problems."
+        self.ai_stack  = ["PyTorch", "TensorFlow", "OpenCV", "LangChain", "HuggingFace"]
+        self.focus     = ["LLMs", "Computer Vision", "Multi-Modal AI", "Edge AI"]
+        self.motto     = "Ship intelligent systems that solve real problems."
 
     def daily_loop(self):
         while True:
-            idea = self.imagine()
-            model = self.design(idea)
-            system = self.integrate(model)
-            self.deploy(system)
-            self.refine()
+            idea    = self.imagine()
+            design  = self.research(idea)
+            system  = self.build(design)
+            results = self.test(system)
+            self.deploy(results)
+            self.refine()  # ♾️ continuous improvement
 ```
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</p>
+</div>
 
 <p align="center">
   <em>⚡ "The best way to predict the future is to build it." ⚡</em>
