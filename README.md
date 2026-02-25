@@ -1,27 +1,33 @@
 <!-- ========================= HEADER SECTION ========================= -->
 
 <h1 align="center">👋 Hey, I'm Akhil Dev (@Hydra404coder)</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Vision + Voice Systems Builder</h3>
+<h3 align="center">AI Engineer | Full Stack Developer | Vision + Voice Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Real-Time+Object+Detection+Systems;Generative+AI+%7C+LLMs+%7C+Multi-Modal+AI;Hardware+%2B+AI+Integration;Turning+Ideas+into+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Real-Time+Object+Detection+Systems;Generative+AI+%7C+LLMs+%7C+Multi-Modal+AI;Hardware+%2B+AI+Integration;Turning+Ideas+into+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+<!-- Subtle Professional Marquee -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=6000&pause=1000&color=7F8CFF&center=true&vCenter=true&width=900&lines=AI+Engineering+%7C+Computer+Vision+%7C+LLMs+%7C+Multi-Modal+Systems+%7C+RAG+Pipelines+%7C+Full+Stack+Architecture+%7C+Cloud+Deployment+%7C+Hardware+Automation" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-🔭 I’m currently working on **AI-powered applications**, including real-time object detection, generative AI assistants, and interactive web-based projects.  
+🔭 Currently building **AI-powered systems**, including real-time object detection, generative AI assistants, and interactive web-based platforms.  
 
-🌱 I’m currently learning **LLM fine-tuning, multi-modal AI integration, and advanced data visualization.**  
+🌱 Deeply focused on **LLM fine-tuning, retrieval-augmented generation (RAG), multi-modal AI, and advanced data visualization.**  
 
-💬 Ask me about **AI/ML, Python, React, Flask, Raspberry Pi automation, and data-driven web apps.**  
+💬 Ask me about **AI/ML, Python, React, Flask, Raspberry Pi automation, and scalable data-driven web apps.**  
 
-⚡ Fun fact: I love combining **AI with hardware** — turning ideas into voice-powered or vision-based systems!
+⚡ I specialize in combining **AI with hardware** — transforming ideas into intelligent, real-world systems.
 
 ---
 
@@ -29,13 +35,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhil-dev404">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:akhilshibu2710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Hydra404coder">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -45,24 +51,19 @@
 
 <p align="center">
 
-<!-- Programming -->
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html" /><br>
-
-<!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=react,next,tailwind,flutter,vite,threejs" /><br>
-
-<!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mongodb,mysql" /><br>
-
-<!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /><br>
-
-<!-- Cloud / DevOps -->
 <img src="https://skillicons.dev/icons?i=aws,azure,docker" /><br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
-<!-- Hardware -->
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
+</p>
 
+<!-- Subtle Horizontal Text Stack Marquee -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=8000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Python+%7C+PyTorch+%7C+TensorFlow+%7C+OpenCV+%7C+React+%7C+Next.js+%7C+Flask+%7C+Node.js+%7C+MongoDB+%7C+MySQL+%7C+Docker+%7C+AWS+%7C+Azure+%7C+Raspberry+Pi+%7C+Arduino" />
 </p>
 
 <p align="center">
@@ -75,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hydra404coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydra404coder&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Hydra404coder&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
