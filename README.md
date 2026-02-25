@@ -107,7 +107,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hydra404coder&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-yourusername.vercel.app/?username=Hydra404coder&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
 </div>
 ---
 
