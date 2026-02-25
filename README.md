@@ -104,10 +104,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy-yourusername.vercel.app/?username=Hydra404coder&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hydra404coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Achievements" width="450" alt="Achievements"/>
+</div>
+
+<div align="center">
+
+| 🏅 Metric | Value |
+|:---:|:---:|
+| ⭐ Total Stars | ![Stars](https://img.shields.io/github/stars/Hydra404coder?style=for-the-badge&color=FFD700&labelColor=1a1b27&label=Stars) |
+| 📦 Public Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hydra404coder&query=$.public_repos&style=for-the-badge&color=4D96FF&labelColor=1a1b27&label=Repos) |
+| 👥 Followers | ![Followers](https://img.shields.io/github/followers/Hydra404coder?style=for-the-badge&color=6BCB77&labelColor=1a1b27&label=Followers) |
+| 🔀 Total PRs | ![PRs](https://img.shields.io/badge/PRs-3-9B59B6?style=for-the-badge&labelColor=1a1b27) |
+
 </div>
 ---
 
