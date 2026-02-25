@@ -186,25 +186,6 @@
 
 <br/>
 
-```python
-class AkhilDev:
-    def __init__(self):
-        self.role      = "AI Engineer & Full Stack Developer"
-        self.languages = ["Python", "C++", "Java", "JavaScript"]
-        self.ai_stack  = ["PyTorch", "TensorFlow", "OpenCV", "LangChain", "HuggingFace"]
-        self.focus     = ["LLMs", "Computer Vision", "Multi-Modal AI", "Edge AI"]
-        self.motto     = "Ship intelligent systems that solve real problems."
-
-    def run(self):
-        while True:
-            idea    = self.imagine()
-            design  = self.research(idea)
-            system  = self.build(design)
-            results = self.test(system)
-            self.deploy(results)
-            self.refine()
-```
-
 ---
 
 <div align="center">
